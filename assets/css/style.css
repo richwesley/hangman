@@ -1,0 +1,22 @@
+@charset "utf-8";
+#word {
+	float: right;
+	font-weight: bolder;
+	font-size: xx-large;
+	margin-right: 414px;
+}
+#button {
+	margin-right: -1px;
+	height: 100px;
+	width: 142px;
+}
+button {
+	float: left;
+
+
+}
+
+#title {
+	font-size: xx-large;
+	margin-left: 454px;
+}
